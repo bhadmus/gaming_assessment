@@ -1,0 +1,18 @@
+{
+  "plusTen": "button[type='button']:nth-child(3)",
+  "plusOne": "button[type='button']:nth-child(2)",
+  "byHalf": "button[type='button']:nth-child(4)",
+  "makeDouble": "button[type='button']:nth-child(5)",
+  "rollDiceBtn": ".btn-roll.mat-accent.mat-button-3d.mat-button-base.mat-flat-button",
+  "signInModal": "#mat-dialog-title-1",
+  "signInText": "SIGN IN",
+  "stakedAmount": "span.currency-value.ng-star-inserted",
+  "rollsCount": "input[formcontrolname=\"rollsPerClick\"]",
+  "sprayButton": ".modes > :nth-child(1) > .mat-button-wrapper",
+  "speedSlider": "mat-slider[role=\"slider\"]",
+  "autoButton": ".modes > :nth-child(2) > .mat-button-wrapper",
+  "rollMeter": "section[fxlayoutgap=\".3125rem\"]",
+  "slowRollButton": ".modes > :nth-child(3) > .mat-button-wrapper",
+  "oddsMeter": "div.handle.ng-tns-c513-10.dragging",
+  "winChance": "div>input[formcontrolname=\"chance\"]"
+}

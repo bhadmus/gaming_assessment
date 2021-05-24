@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://www.csgoroll.com/en/dice",
+  "viewportHeight": 900,
+  "viewportWidth": 1400,
+  "defaultCommandTimeout": 30000,
+  "testFiles": "**/*.{feature,features}"
+}
