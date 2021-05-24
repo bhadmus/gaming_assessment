@@ -18,4 +18,4 @@ You can run the project locally with
 * `npx cypress run` if you want to run the whole test on the headless mode
 
 ## What does this script do?
-The scripts executes some test scenarios on the https://www.csgoroll.com/en/dice.
+The scripts executes some test scenarios on the https://www.csgoroll.com/en/dice webpage.
